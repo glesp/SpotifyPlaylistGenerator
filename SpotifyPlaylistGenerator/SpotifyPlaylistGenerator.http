@@ -1,0 +1,6 @@
+@SpotifyPlaylistGenerator_HostAddress = http://localhost:5110
+
+GET {{SpotifyPlaylistGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

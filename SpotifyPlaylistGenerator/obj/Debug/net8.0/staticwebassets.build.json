@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "JOXYrBCSxm1r83Xniq7VPPy5d7hqSeskQY5NxWnW2/Q=",
+  "Source": "SpotifyPlaylistGenerator",
+  "BasePath": "_content/SpotifyPlaylistGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SpotifyPlaylistGenerator/wwwroot",
+      "Source": "SpotifyPlaylistGenerator",
+      "ContentRoot": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/",
+      "BasePath": "_content/SpotifyPlaylistGenerator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/css/bootstrap.min.css",
+      "SourceId": "SpotifyPlaylistGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/",
+      "BasePath": "_content/SpotifyPlaylistGenerator",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/index.html",
+      "SourceId": "SpotifyPlaylistGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/",
+      "BasePath": "_content/SpotifyPlaylistGenerator",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

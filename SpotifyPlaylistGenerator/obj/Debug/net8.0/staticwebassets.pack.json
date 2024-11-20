@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SpotifyPlaylistGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SpotifyPlaylistGenerator.props",
+      "PackagePath": "build\\SpotifyPlaylistGenerator.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SpotifyPlaylistGenerator.props",
+      "PackagePath": "buildMultiTargeting\\SpotifyPlaylistGenerator.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SpotifyPlaylistGenerator.props",
+      "PackagePath": "buildTransitive\\SpotifyPlaylistGenerator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
