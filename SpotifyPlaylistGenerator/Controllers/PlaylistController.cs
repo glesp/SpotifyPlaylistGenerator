@@ -47,8 +47,12 @@ namespace SpotifyPlaylistGenerator.Controllers
 
                 // Search Spotify for playlists based on the provided mood
                 _logger.LogInformation("Searching Spotify for playlists matching mood: {Mood}", mood);
+                var random = new Random();
                 var searchResults = await spotify.Search.Item(new SearchRequest(SearchRequest.Types.Playlist, mood));
-                var playlist = searchResults.Playlists?.Items.FirstOrDefault();
+                var playlist = searchResults.Playlists?.Items  
+                    .OrderBy(x => random.Next())
+                    .FirstOrDefault();
+                
 
                 if (playlist == null)
                 {

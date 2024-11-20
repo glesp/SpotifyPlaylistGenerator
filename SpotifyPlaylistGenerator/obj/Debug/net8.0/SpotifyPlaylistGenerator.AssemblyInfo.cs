@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotifyPlaylistGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa10601b61dc3ee9bbbc7fbd7fee49bb439ea9dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotifyPlaylistGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotifyPlaylistGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

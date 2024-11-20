@@ -34,3 +34,4 @@
 /Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/obj/Debug/net8.0/SpotifyPlaylistGenerator.genruntimeconfig.cache
 /Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/obj/Debug/net8.0/ref/SpotifyPlaylistGenerator.dll
 /Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/bin/Debug/net8.0/SpotifyPlaylistGenerator.staticwebassets.runtime.json
+/Users/conorgillespie/RiderProjects/SpotifyPlaylistGenerator/SpotifyPlaylistGenerator/obj/Debug/net8.0/SpotifyPlaylistGenerator.sourcelink.json
